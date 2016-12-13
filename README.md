@@ -1,7 +1,7 @@
 # Women's Work : a living lab
 Wearable computers, sensors, and big data to measure women's paid and unpaid work in society.
 
-Project Objective
+Project Objective.
 ------------
 This project aims to implement a toolset and experimental methodologies for measuring precisely the daily activities of individual (volunteer) women. The project will design a "living lab" leveraging big-data originating from: 
 
